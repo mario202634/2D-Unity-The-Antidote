@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: c38dafe39a7b93a4089da8f666b9c1c1
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene.unity
+    guid: 343d5ef68b0b7064cb161b84dc619881
+  - enabled: 1
+    path: Assets/Scenes/TutorialLevel.unity
+    guid: 8526c4e32f34cbb47b3519dc41c2f4a0
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: f575ee7cc187324478ead40611d4364a
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Level1Scene2.unity
+    guid: cc8dc716b9f28d34193c1c59fb790431
+  - enabled: 1
+    path: Assets/Scenes/Level1Scene1.unity
+    guid: 3f48c7de2fb345845b4fb6b91e581bf5
+  - enabled: 1
+    path: Assets/Scenes/Level2Scene1.unity
+    guid: 79776f931bc393d4a9b776b9ae7114bf
+  - enabled: 1
+    path: Assets/Scenes/Level2Scene2.unity
+    guid: 09b9a8f071d83884f9a736d23f3fbd15
+  - enabled: 1
+    path: Assets/Scenes/Level3Scene2.unity
+    guid: f1cbe76a0d0c6374899b1daf75ecfb19
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Cutscene2.unity
+    guid: 1bb774ceb72cb0b4a9e855f1c9a630ee
+  - enabled: 1
+    path: Assets/Scenes/Level3Scene1.unity
+    guid: e63e53f79f437f44b9c2e8872ab6af9c
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Cutscene3.unity
+    guid: e3de012726e9edd429186b0fcc2ca62a
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/AntidoteRocketScene.unity
+    guid: 5f8cd6cdc4e808243b38f61377b21bc8
+  - enabled: 1
+    path: Assets/Scenes/Cutscene4.unity
+    guid: 85d4510b4f0fec64c85e928d3cc0e5c5
+  - enabled: 1
+    path: Assets/Scenes/Cutscene1.unity
+    guid: 76312109970b8ea47af9323c99a9a111
+  - enabled: 1
+    path: Assets/Scenes/ThanksForPlayingScene.unity
+    guid: 8ed4911b8969b094c89b911cfcd449a1
+  - enabled: 1
+    path: Assets/Scenes/SelectionLevel1.unity
+    guid: cfe31f9fd9b7527448c374d2855dac41
+  - enabled: 1
+    path: Assets/Scenes/SelectionLevel2.unity
+    guid: 7156a87444b660149848f29e27d03e40
+  - enabled: 1
+    path: Assets/Scenes/SelectionLevel3.unity
+    guid: 521010655bc7da24f8724e12e962dfae
+  - enabled: 1
+    path: Assets/Scenes/QTutorial.unity
+    guid: 5297d9997c777d347bbbc21a813470f8
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/IntroCredit.unity
+    guid: a4bcb6d247c7f484fa0daf7f83040102
+  - enabled: 1
+    path: Assets/Scenes/EndCredit.unity
+    guid: c68d76d1904dd104cb7e06e6f4769c32
+  m_configObjects: {}

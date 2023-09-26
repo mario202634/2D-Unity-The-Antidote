@@ -1,0 +1,1644 @@
+fileFormatVersion: 2
+guid: f9d7c94e2cc24634da37a89cb7dbf1fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -42673469117266536
+    second: Animate Fire_0
+  - first:
+      213: 8476100795681520310
+    second: Animate Fire_1
+  - first:
+      213: 3917295522892927310
+    second: Animate Fire_2
+  - first:
+      213: 3000373592695637544
+    second: Animate Fire_3
+  - first:
+      213: -7873813455577828536
+    second: Animate Fire_4
+  - first:
+      213: 4010185347456134368
+    second: Animate Fire_5
+  - first:
+      213: -5241835668616339663
+    second: Animate Fire_6
+  - first:
+      213: 8024383680504678530
+    second: Animate Fire_7
+  - first:
+      213: 8893331935035538538
+    second: Animate Fire_8
+  - first:
+      213: -7630901483255616650
+    second: Animate Fire_9
+  - first:
+      213: 662694583840026090
+    second: Animate Fire_10
+  - first:
+      213: 7830068334116777376
+    second: Animate Fire_11
+  - first:
+      213: 920639467407574950
+    second: Animate Fire_12
+  - first:
+      213: -3108722296384731696
+    second: Animate Fire_13
+  - first:
+      213: 5680196330192915246
+    second: Animate Fire_14
+  - first:
+      213: -5619566154728048570
+    second: Animate Fire_15
+  - first:
+      213: 6690520988535381213
+    second: Animate Fire_16
+  - first:
+      213: -7051244173539906945
+    second: Animate Fire_17
+  - first:
+      213: 3831052336292465759
+    second: Animate Fire_18
+  - first:
+      213: 2937993307766054354
+    second: Animate Fire_19
+  - first:
+      213: -2143813809345040124
+    second: Animate Fire_20
+  - first:
+      213: -7512025702470833883
+    second: Animate Fire_21
+  - first:
+      213: 3067640978602747825
+    second: Animate Fire_22
+  - first:
+      213: -3455192015915733907
+    second: Animate Fire_23
+  - first:
+      213: -5552036489955420095
+    second: Animate Fire_24
+  - first:
+      213: -6207931134537510448
+    second: Animate Fire_25
+  - first:
+      213: 5047929712752814917
+    second: Animate Fire_26
+  - first:
+      213: -2684130252718451760
+    second: Animate Fire_27
+  - first:
+      213: 8590776793840276068
+    second: Animate Fire_28
+  - first:
+      213: -5273098289946094054
+    second: Animate Fire_29
+  - first:
+      213: 3952362038694039190
+    second: Animate Fire_30
+  - first:
+      213: -5037150267545867876
+    second: Animate Fire_31
+  - first:
+      213: 675163130255783397
+    second: Animate Fire_32
+  - first:
+      213: -6666002084031929195
+    second: Animate Fire_33
+  - first:
+      213: -5093362421840208135
+    second: Animate Fire_34
+  - first:
+      213: 5313253619679878962
+    second: Animate Fire_35
+  - first:
+      213: 4519928964694651110
+    second: Animate Fire_36
+  - first:
+      213: 3735367186617914098
+    second: Animate Fire_37
+  - first:
+      213: 3621864699747412600
+    second: Animate Fire_38
+  - first:
+      213: -8176853555556575839
+    second: Animate Fire_39
+  - first:
+      213: 8904980566873812379
+    second: Animate Fire_40
+  - first:
+      213: 1725034458257349684
+    second: Animate Fire_41
+  - first:
+      213: -6505859201464928235
+    second: Animate Fire_42
+  - first:
+      213: 8688365066628649048
+    second: Animate Fire_43
+  - first:
+      213: 6248697622537170417
+    second: Animate Fire_44
+  - first:
+      213: 1668511411249399995
+    second: Animate Fire_45
+  - first:
+      213: 2565018113313290455
+    second: Animate Fire_46
+  - first:
+      213: -2006986011618257906
+    second: Animate Fire_47
+  - first:
+      213: -557474797082987068
+    second: Animate Fire_48
+  - first:
+      213: -929605487711319137
+    second: Animate Fire_49
+  - first:
+      213: 4777523570699403535
+    second: Animate Fire_50
+  - first:
+      213: -1900459051380194556
+    second: Animate Fire_51
+  - first:
+      213: 4450945023834849422
+    second: Animate Fire_52
+  - first:
+      213: -7645118102308684006
+    second: Animate Fire_53
+  - first:
+      213: 4342150236620063090
+    second: Animate Fire_54
+  - first:
+      213: 2700112323685859279
+    second: Animate Fire_55
+  - first:
+      213: -616577170062886055
+    second: Animate Fire_56
+  - first:
+      213: 2518790446638063859
+    second: Animate Fire_57
+  - first:
+      213: 4299533210352298603
+    second: Animate Fire_58
+  - first:
+      213: 5273927011991076538
+    second: Animate Fire_59
+  - first:
+      213: -8294992219611162454
+    second: Animate Fire_60
+  - first:
+      213: -8193034271171605384
+    second: Animate Fire_61
+  - first:
+      213: 597285301022285447
+    second: Animate Fire_62
+  - first:
+      213: -2641103833094279493
+    second: Animate Fire_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animate Fire_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 700
+        width: 93
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8958ee7b4b4686ff0800000000000000
+      internalID: -42673469117266536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 700
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bab00fe3c821a570800000000000000
+      internalID: 8476100795681520310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 700
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41d24af5870d5630800000000000000
+      internalID: 3917295522892927310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_3
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 700
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826061ac2e773a920800000000000000
+      internalID: 3000373592695637544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_4
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 700
+        width: 93
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843b79021689ab290800000000000000
+      internalID: -7873813455577828536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_5
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 700
+        width: 93
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec699e935a07a730800000000000000
+      internalID: 4010185347456134368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_6
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 700
+        width: 93
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f96295b324147b0800000000000000
+      internalID: -5241835668616339663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_7
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 700
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2884ce141765c5f60800000000000000
+      internalID: 8024383680504678530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 94
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c3e69a6467b6b70800000000000000
+      internalID: 8893331935035538538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 600
+        width: 94
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b2c8ef787991690800000000000000
+      internalID: -7630901483255616650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 94
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed2c50863d523900800000000000000
+      internalID: 662694583840026090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 94
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ada0161aadf9ac60800000000000000
+      internalID: 7830068334116777376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 94
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a78805c7b4c6cc00800000000000000
+      internalID: 920639467407574950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_13
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 600
+        width: 94
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5c6aaca899bd4d0800000000000000
+      internalID: -3108722296384731696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 94
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b40a3a77c14de40800000000000000
+      internalID: 5680196330192915246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_15
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 600
+        width: 94
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64870a32b5a4302b0800000000000000
+      internalID: -5619566154728048570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 94
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc52f3246189dc50800000000000000
+      internalID: 6690520988535381213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 94
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a6c9388c2f42e90800000000000000
+      internalID: -7051244173539906945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 500
+        width: 94
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c84a45dc1aa2530800000000000000
+      internalID: 3831052336292465759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 500
+        width: 94
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddded5e859d5c820800000000000000
+      internalID: 2937993307766054354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 500
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4017965e2b4af32e0800000000000000
+      internalID: -2143813809345040124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_21
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5292f9c8c6cefb790800000000000000
+      internalID: -7512025702470833883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 500
+        width: 94
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b76c0c8733729a20800000000000000
+      internalID: 3067640978602747825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_23
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 500
+        width: 93
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ca39cfa21bc00d0800000000000000
+      internalID: -3455192015915733907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 94
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14853347a3433f2b0800000000000000
+      internalID: -5552036489955420095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 400
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1ddcf268ff8d9a0800000000000000
+      internalID: -6207931134537510448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_26
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 400
+        width: 93
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b65c32459dd0640800000000000000
+      internalID: 5047929712752814917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_27
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 400
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d356db91cd00cad0800000000000000
+      internalID: -2684130252718451760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_28
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 400
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462d4856af1983770800000000000000
+      internalID: 8590776793840276068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_29
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 400
+        width: 92
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a161b0a1b0132d6b0800000000000000
+      internalID: -5273098289946094054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_30
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 400
+        width: 92
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ec81c655c99d630800000000000000
+      internalID: 3952362038694039190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_31
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 400
+        width: 92
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c992aa60582781ab0800000000000000
+      internalID: -5037150267545867876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 92
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e536503a49ae5900800000000000000
+      internalID: 675163130255783397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_33
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 300
+        width: 91
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594634d2c6a9d73a0800000000000000
+      internalID: -6666002084031929195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_34
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 300
+        width: 91
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe14e5fcddb059b0800000000000000
+      internalID: -5093362421840208135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_35
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 300
+        width: 91
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fd39a24087cb940800000000000000
+      internalID: 5313253619679878962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_36
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 91
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0bf9e12730abe30800000000000000
+      internalID: 4519928964694651110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_37
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 300
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2d2085aa0b6d330800000000000000
+      internalID: 3735367186617914098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_38
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 300
+        width: 89
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87aa8f441c2734230800000000000000
+      internalID: 3621864699747412600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_39
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 300
+        width: 89
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a519a8930bf58e80800000000000000
+      internalID: -8176853555556575839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 200
+        width: 89
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d254c15a8d49b70800000000000000
+      internalID: 8904980566873812379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_41
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 200
+        width: 89
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cdcbd33bd80f710800000000000000
+      internalID: 1725034458257349684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_42
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 200
+        width: 89
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518f9f9968b86b5a0800000000000000
+      internalID: -6505859201464928235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_43
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 200
+        width: 89
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8505053cef5439870800000000000000
+      internalID: 8688365066628649048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_44
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 200
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fde7247165d7b650800000000000000
+      internalID: 6248697622537170417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_45
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 200
+        width: 89
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8c433d94eb72710800000000000000
+      internalID: 1668511411249399995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_46
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 200
+        width: 90
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d83b7e4266c89320800000000000000
+      internalID: 2565018113313290455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_47
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 200
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04d05c1bd0c524e0800000000000000
+      internalID: -2006986011618257906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 100
+        width: 91
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5b2ac20a37348f0800000000000000
+      internalID: -557474797082987068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_49
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 100
+        width: 91
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b86b3fbb06913f0800000000000000
+      internalID: -929605487711319137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_50
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 100
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f010899006c2d4240800000000000000
+      internalID: 4777523570699403535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_51
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 100
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403ce44df8630a5e0800000000000000
+      internalID: -1900459051380194556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_52
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 100
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e800874caeee4cd30800000000000000
+      internalID: 4450945023834849422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_53
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 100
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f7bfd679517e590800000000000000
+      internalID: -7645118102308684006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_54
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 100
+        width: 92
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2710e1f62aa624c30800000000000000
+      internalID: 4342150236620063090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_55
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 100
+        width: 92
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf33f24ad9b87520800000000000000
+      internalID: 2700112323685859279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 92
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b39c1a45a7177f0800000000000000
+      internalID: -616577170062886055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_57
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 92
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0628be09a84f220800000000000000
+      internalID: 2518790446638063859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_58
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a2b07cca20bab30800000000000000
+      internalID: 4299533210352298603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_59
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abeb019cca0c03940800000000000000
+      internalID: 5273927011991076538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_60
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa89277668442ec80800000000000000
+      internalID: -8294992219611162454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_61
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 0
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c073a2dbe7c4e80800000000000000
+      internalID: -8193034271171605384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_62
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 0
+        width: 93
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78edef411dbf94800800000000000000
+      internalID: 597285301022285447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animate Fire_63
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 0
+        width: 94
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe2e759e0ae85bd0800000000000000
+      internalID: -2641103833094279493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
